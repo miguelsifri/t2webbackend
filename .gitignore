@@ -1,0 +1,11 @@
+# node_modules
+node_modules/
+
+# Archivos temporales
+*.log
+.env
+
+# Carpeta de imágenes subidas
+uploads/
+
+subs.json
