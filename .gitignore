@@ -9,3 +9,4 @@ node_modules/
 uploads/
 
 subs.json
+nodemon.json
